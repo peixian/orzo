@@ -1,0 +1,13 @@
+* References
+  - https://github.com/paragonie/past/blob/master/docs/01-Protocol-Versions/Common.md
+  - https://github.com/paragonie/past/blob/master/src/Protocol/Version2.php
+  - https://github.com/paragonie/past/tree/master/docs/01-Protocol-Versiogns
+  - https://github.com/paragonie/past/blob/master/docs/01-Protocol-Versions/Common.md
+  - https://github.com/paragonie/past/tree/master/docs
+  - https://github.com/paragonie/past
+  - https://github.com/gtank/cryptopasta/blob/master/sign.go
+  - https://github.com/golang/go/issues/21447#issue-250192430
+  - https://github.com/aead/chacha20poly1305
+  - https://godoc.org/golang.org/x/crypto/ed25519
+  - https://github.com/dgrijalva/jwt-go/blob/master/hmac.go
+  - https://github.com/paragonie/past/blob/master/src/Protocol/Version2.php
